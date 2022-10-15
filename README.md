@@ -2,7 +2,11 @@
 
 Projeyi ~~clone~~ ile değil [buradan](https://github.com/eyildirim19/IntroductionOdev) code buttonuna tıkladığınızda **download** seçeneği ile localinize indirebilir veya buradan [indirebilirsiniz](https://github.com/eyildirim19/IntroductionOdev/archive/refs/heads/master.zip)
 
-Projeyi indirdikten sonra indirdiğiniz projeyi rar dosyasından çıkartıp klasör içerisindeki sln dosyası ile açabilirsiniz. Yine bu projede ödevinizi tamamladıkan sonra 
+Projeyi indirdikten sonra indirdiğiniz projeyi rar dosyasından çıkartıp klasör içerisindeki sln dosyası ile açabilirsiniz. 
+
+İlk olarak ***View*** ***Task List*** penceresini açın. açıklamaya göre ödevinizi tamamlayın.
+
+Yine bu projede ödevinizi tamamladıkan sonra; 
 
 ## Visual Studiodan projeyi githuba yüklemek için;
 - [x] Solution'a sağ tık yapınız
